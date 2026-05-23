@@ -206,9 +206,9 @@ Ali Ahmed|Dr. Hassan|25-05-2025
 
 **Mehran Mansha**
 - 🎓 BS Computer Science — University of Central Punjab (UCP), Lahore
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-- 📍 Lahore, Pakistan
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehranmansha1)
+- 🐙 [GitHub](https://github.com/mehranmansha1)
+- 📍  Gujranwala, Pakistan
 
 ---
 
