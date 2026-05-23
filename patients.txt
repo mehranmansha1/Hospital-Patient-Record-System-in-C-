@@ -1,0 +1,2 @@
+1|Ali|18|Male|Fever|Dr. Aliyan|12-07-2026
+2|Asad|23|Male|Fever|Dr. Ali|15-06-2026
